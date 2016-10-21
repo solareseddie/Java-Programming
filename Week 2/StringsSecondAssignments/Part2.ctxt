@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=stringa\ stringb
+comment0.target=int\ howMany(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=void\ testHowMany()
+comment2.params=stringa\ stringb
+comment2.target=void\ testHowManyPrint(java.lang.String,\ java.lang.String)
+numComments=3

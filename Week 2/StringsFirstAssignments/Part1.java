@@ -30,7 +30,7 @@ public class Part1 {
     }
     public void testSimpleGene() {
         //Test Case 1: Valid
-        String dna = "ATCATGTCGCCGGGATAACG";
+        String dna = "AAATGCCCTAACTAGATTAAGAAACC";
         System.out.println("DNA strand is: " + dna);
         String gene = findSimpleGene(dna);
         System.out.println(gene);
